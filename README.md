@@ -19,7 +19,7 @@ Página web criada para concluir atividade de desafio, é composta de artigos co
 1. **Faça o download deste projeto;**
 2. **Abra o VSCode(Visual Studio Code)**;
 3. **Procure por "Arquivo" na parte superior do VSCode e em seguida clique em "Abrir Pasta" ou use**: `Ctrl+K` continue segurando Ctrl e pressione `O`;
-4. **Em seguida localize a pasta baixada desye projeto em seu computador**;
+4. **Em seguida localize a pasta baixada deste projeto em seu computador**;
 5. **Selecione e clique em "Selecionar Pasta"**;
 6. **Instale a extensão "Live Server no VSCode**;
 7. **Depois de instalada, procure por "Go Live" na parte inferior direita do VSCode**;
